@@ -1,0 +1,19 @@
+[
+    {
+        "label": "Instagram",
+        "value": 300000
+    },
+    {
+        "label": "Facebook",
+        "value": 75000 
+    },
+    {
+        "label": "TikTok",
+        "value": 500000
+    },
+    {
+        "label": "YouTube",
+        "value": 35000
+    }
+
+]
